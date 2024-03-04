@@ -29,7 +29,7 @@ export default class Result extends Component {
             </div>
             <div className='flex result-text'>
                 <span>Number of wrong answers</span>
-                <span>6</span>
+                <span>{15 - this.score}</span>
             </div>
         </div>
         <div className="btn" style={{margin:"50px"}}>

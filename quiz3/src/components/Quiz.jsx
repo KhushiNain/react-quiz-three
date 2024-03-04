@@ -9,7 +9,7 @@ export default class Quiz extends Component {
         super()
         this.state={
             index:0,
-            attempt :0,
+            attempt :1,
             count:0
         }
     }
