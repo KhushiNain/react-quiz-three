@@ -84,7 +84,7 @@ export default class Quiz extends Component {
 
 
         </div>
-        <h1>{this.state.count}</h1>
+        
 
       </div>
     )
